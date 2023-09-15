@@ -1,0 +1,29 @@
+{
+  "tasks": [
+    {
+      "conditions": true,
+      "period": "Semestre 3",
+      "name": "Api Marvel",
+      "email": "test@test.udem.com",
+      "description": "Api Marvel con front y api",
+      "type": "typeA",
+      "id": 1
+    },
+    {
+      "conditions": true,
+      "period": "1",
+      "name": "Login",
+      "email": "test@test.co",
+      "description": "test",
+      "type": "typeA",
+      "id": 2
+    }
+  ],
+  "users": [
+    {
+      "name": "Prueba",
+      "clave": "1234",
+      "correo": "a@gmail.com"
+    }
+  ]
+}
